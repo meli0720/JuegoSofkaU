@@ -1,0 +1,457 @@
+[
+    {
+        "categoria": "1",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen":"https://historia.nationalgeographic.com.es/medio/2018/06/11/01-mona-lisa-marco-gioconda-louvre_2d7f91a1.jpg"
+},
+
+    {
+    "categoria": "1",
+    "pregunta": "Sistema operativo para telefonos más usado",
+    "respuesta": "Android",
+    "incorrecta1": "IOS",
+    "incorrecta2": "Microsoft",
+    "incorrecta3": "Windows",
+    "imagen":"https://img.blogs.es/anexom/wp-content/uploads/2021/04/sistema-operativo-movil-que-es.jpg"
+},
+{
+    "categoria": "1",
+    "pregunta": " ¿Cuál de los siguientes es un gas noble?",
+    "respuesta": "Neón",
+    "incorrecta1": "Potasio",
+    "incorrecta2": "Carbono",
+    "incorrecta3": "Cesio",
+    "imagen":"data:image/jpeg;base64,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"
+},
+{
+    "categoria": "1",
+    "pregunta": " ¿Cuál es la hormona que les cambia el tono de voz a los hombres?",
+    "respuesta": "Testosterona",
+    "incorrecta1": "Progesterona",
+    "incorrecta2": "Inhibina",
+    "incorrecta3": "Melatonina",
+    "imagen":"https://www.investigacionyciencia.es/images/19366/articleImage-minimal.jpg"
+},
+{
+    "categoria": "1",
+    "pregunta": " ¿Dónde tienen el sentido del gusto las moscas?",
+    "respuesta": "En Las Patas",
+    "incorrecta1": "En Las Papilas Gustativas",
+    "incorrecta2": "En Las Antenas",
+    "incorrecta3": "No Tienen",
+    "imagen":"https://static1.abc.es/media/ciencia/2021/05/24/AdobeStock_112865445-kj7F--620x349@abc.jpg"
+},
+{
+    "categoria": "2",
+    "pregunta": " Calcula: 20 + 100 + 420",
+    "respuesta": "540",
+    "incorrecta1": "402",
+    "incorrecta2": "430",
+    "incorrecta3": "420",
+    "imagen":"https://www.educima.com/dibujo-para-colorear-pensar-dl10044.jpg"
+
+},
+{
+    "categoria": "2",
+    "pregunta": " ¿Qué codificación utiliza solamente 0 y 1?",
+    "respuesta": "Binario",
+    "incorrecta1": "Decimal",
+    "incorrecta2": "Octal",
+    "incorrecta3": "Hexadecimal",
+    "imagen":"https://espaciociencia.com//wp-content/uploads/2008/10/sistema-binario.jpg"
+},
+{
+    "categoria": "2",
+    "pregunta": " ¿Qué es la eremofobia?",
+    "respuesta": "Ninguna Es Correcta",
+    "incorrecta1": "Miedo Al Agua",
+    "incorrecta2": "Miedo A La Sangre",
+    "incorrecta3": "Miedo A Las Alturas",
+    "imagen":"https://www.menteasombrosa.com/wp-content/uploads/2019/08/eremofobia-miedo-soledad.jpg"
+},
+{
+    "categoria": "2",
+    "pregunta": " ¿Qué vitamina ayuda a la fijación de calcio en los huesos?",
+    "respuesta": "Vitamina D",
+    "incorrecta1": "Vitamina A",
+    "incorrecta2": "Riboflavina",
+    "incorrecta3": "Piridoxina",
+    "imagen":"https://www.dietistasnutricionistas.es/wp-content/uploads/2015/05/calcio-huesos.jpg"
+},
+{
+    "categoria": "2",
+    "pregunta": "¿Qué enfermedad se produce por la deficiencia en la producción de la hormona insulina por parte del páncreas?",
+    "respuesta": "Diabetes",
+    "incorrecta1": "Hipertiroidismo",
+    "incorrecta2": "Hipertensión",
+    "incorrecta3": "Colesterol",
+    "imagen":"https://www.dietistasnutricionistas.es/wp-content/uploads/2015/05/calcio-huesos.jpg"
+},
+{
+    "categoria": "3",
+    "pregunta": "¿Qué otro nombre recibió el período de la Gran Hambruna China?",
+    "respuesta": "Todas Son Correctas",
+    "incorrecta1": "Tres Años De Desastres Naturales",
+    "incorrecta2": "Tres Años De Dificultades Económicas",
+    "incorrecta3": "Tres Años Amargos",
+    "imagen":"https://img.lagaceta.com.ar/fotos/notas/2020/05/19/leccion-hambruna-china-19591961-844639-002215.jpg"
+},
+{
+    "categoria": "3",
+    "pregunta": "¿Con qué emperador estuvo casada Cleopatra?",
+    "respuesta": "Todas Son Correctas",
+    "incorrecta1": "Ptolomeo XIV",
+    "incorrecta2": "Julio César",
+    "incorrecta3": "Marco Antonio",
+    "imagen":"https://thumbs.dreamstime.com/b/la-mujer-egipcia-hermosa-le-gusta-cleopatra-con-la-bola-m%C3%A1gica-en-fondo-de-oro-74757890.jpg"
+},
+{
+    "categoria": "3",
+    "pregunta": "¿Qué se celebra el 8 de Marzo?",
+    "respuesta": "El Día De La Mujer",
+    "incorrecta1": "El Día Del Trabajo",
+    "incorrecta2": "El Día Del Medio Ambiente",
+    "incorrecta3": "El Día Del Niño",
+    "imagen":"https://sv.boell.org/sites/default/files/styles/3d2_small/public/2020-03/nayda.png?h=1e66e246&itok=zTUw2msh"
+},
+{
+    "categoria": "3",
+    "pregunta": "¿Dónde se encuentra Baiona?",
+    "respuesta": "Pontevedra",
+    "incorrecta1": "Francia",
+    "incorrecta2": "País Vasco",
+    "incorrecta3": "Andalucía",
+    "imagen":"https://media.quincemil.com/imagenes/2021/03/05193007/Baiona-1440x1080.jpg"
+},
+{
+    "categoria": "3",
+    "pregunta": "¿En qué país de África es el español el idioma oficial? ",
+    "respuesta": "Ghana",
+    "incorrecta1": "Guinea Ecuatorial",
+    "incorrecta2": "Gabón",
+    "incorrecta3": "Camerún",
+    "imagen":"https://cdn.passporthealthusa.com/wp-content/uploads/2017/07/advice-vaccines-ghana.jpg"
+},
+{
+    "categoria": "4",
+    "pregunta": "¿En cuál de estas situaciones se sacará una bandera amarilla, o incluso roja, en las carreras de coches?",
+    "respuesta": "Un Peligro En La Pista",
+    "incorrecta1": "Se Ha Declarado Un Ganador",
+    "incorrecta2": "Queda Una Vuelta",
+    "incorrecta3": "La Carrera Va A Empezar",
+    "imagen":"data:image/jpeg;base64,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"
+},
+{
+    "categoria": "4",
+    "pregunta": "¿Cuánto dura un partido de balonmano?",
+    "respuesta": "60 Minutos",
+    "incorrecta1": "30 Minutos",
+    "incorrecta2": "45 Minutos",
+    "incorrecta3": "90 Minutos",
+    "imagen":"https://www.elindependiente.com/wp-content/uploads/2021/07/hispanos-balonmano-tokio-2021-espana.jpg"
+},
+{
+    "categoria": "4",
+    "pregunta": " ¿Qué actor interpretaba a \"Hache\" en la película 3MSC?",
+    "respuesta": "Mario Casas",
+    "incorrecta1": "Hugo Silva",
+    "incorrecta2": "Miguel Angel Silvestre",
+    "incorrecta3": "Dani Martín",
+    "imagen":"https://i.pinimg.com/originals/7b/6c/48/7b6c481d126f09fd1c0ceb70d938f40b.jpg"
+},
+{
+    "categoria": "4",
+    "pregunta": " ¿Qué animal es la mascota de Jazmín en Aladdin?",
+    "respuesta": "Tigre",
+    "incorrecta1": "Elefante",
+    "incorrecta2": "Mono",
+    "incorrecta3": "Serpiente",
+    "imagen":"https://1.bp.blogspot.com/-2saWZcqzj7Q/XWbcmn624DI/AAAAAAAAC-g/BYQL8IK-ZGsG7tEtkvHBwTm9E0Ci9a_TACLcBGAs/s1600/princesa-jasmine-para-imprimir1.jpg"
+},
+{
+    "categoria": "4",
+    "pregunta": " ¿Quién interpreta la canción \"Baby One More Time \"?",
+    "respuesta": "Britney Spears",
+    "incorrecta1": "Madonna",
+    "incorrecta2": "Montserrat Caballé",
+    "incorrecta3": "Lady Gaga",
+    "imagen":"https://pbs.twimg.com/media/Ds9HOgzWkAU6w2h.jpg"
+},
+{
+    "categoria": "5",
+    "pregunta": " ¿Qué personaje del videojuego Mortal Kombat tiene poderes de hielo?",
+    "respuesta": "Sub-Zero",
+    "incorrecta1": "Scorpion",
+    "incorrecta2": "Reptile",
+    "incorrecta3": "Motaro",
+    "imagen":"https://play-lh.googleusercontent.com/cVUW4kbe8pQGlIp9d72uk_nr2cfsnFAp3WyKbX7SY30SgoAFucAsC4Mw5Eyiy0zang=w412-h220-rw"
+},
+{
+    "categoria": "5",
+    "pregunta": "Area del paralelogramo",
+    "respuesta": "bh",
+    "incorrecta1": "½bh",
+    "incorrecta2": "½bh",
+    "incorrecta3": "½ab(senΘ)",
+    "imagen":"https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3Aa6bc5442041e883345833cf7882d47afbcbf0778352f29db2d771b8b%2BIMAGE_TINY%2BIMAGE_TINY.1"
+},
+{
+    "categoria": "5",
+    "pregunta": "¿Cuánto vale el radio de la circunferencia goniométrica?",
+    "respuesta": "1",
+    "incorrecta1": "π²",
+    "incorrecta2": "3",
+    "incorrecta3": "cualquier numero real",
+    "imagen":"https://www.wikihow.com/images_en/thumb/d/d4/Memorize-the-Unit-Circle-Step-13-Version-2.jpg/v4-460px-Memorize-the-Unit-Circle-Step-13-Version-2.jpg.webp"
+},
+    {
+    "categoria": "5",
+    "pregunta": "Raiz cuadrada de 5",
+    "respuesta": "2.23606797749978969640917366873127623544061835...",
+    "incorrecta1": "1,41421356237309504880168872420969807856967187…",
+    "incorrecta2": "3.14159265358979323846264338327950288419716939...",
+    "incorrecta3": "1.73205080756887729352744634150587236694280525…",
+    "imagen":"https://cdn5.dibujos.net/dibujos/pintados/201933/numero-5-letras-y-numeros-numeros-11622556.jpg"
+    },
+    {
+    "categoria": "5",
+    "pregunta": " ¿Cómo era conocido también el faraón Akenatón, por adorar a un solo Dios?",
+    "respuesta": "El Hereje",
+    "incorrecta1": "El Feo",
+    "incorrecta2": "El Ateo",
+    "incorrecta3": "El Loco",
+    "imagen":"https://www.xlsemanal.com/wp-content/uploads/sites/3/2016/06/cor-42-40571900-2.jpg"
+    },
+
+    {
+        "categoria": "1",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen":"https://historia.nationalgeographic.com.es/medio/2018/06/11/01-mona-lisa-marco-gioconda-louvre_2d7f91a1.jpg"
+},
+
+    {
+    "categoria": "1",
+    "pregunta": "Sistema operativo para telefonos más usado",
+    "respuesta": "Android",
+    "incorrecta1": "IOS",
+    "incorrecta2": "Microsoft",
+    "incorrecta3": "Windows",
+    "imagen":"https://img.blogs.es/anexom/wp-content/uploads/2021/04/sistema-operativo-movil-que-es.jpg"
+},
+{
+    "categoria": "1",
+    "pregunta": " ¿Cuál de los siguientes es un gas noble?",
+    "respuesta": "Neón",
+    "incorrecta1": "Potasio",
+    "incorrecta2": "Carbono",
+    "incorrecta3": "Cesio",
+    "imagen":"data:image/jpeg;base64,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"
+},
+{
+    "categoria": "1",
+    "pregunta": " ¿Cuál es la hormona que les cambia el tono de voz a los hombres?",
+    "respuesta": "Testosterona",
+    "incorrecta1": "Progesterona",
+    "incorrecta2": "Inhibina",
+    "incorrecta3": "Melatonina",
+    "imagen":"https://www.investigacionyciencia.es/images/19366/articleImage-minimal.jpg"
+},
+{
+    "categoria": "1",
+    "pregunta": " ¿Dónde tienen el sentido del gusto las moscas?",
+    "respuesta": "En Las Patas",
+    "incorrecta1": "En Las Papilas Gustativas",
+    "incorrecta2": "En Las Antenas",
+    "incorrecta3": "No Tienen",
+    "imagen":"https://static1.abc.es/media/ciencia/2021/05/24/AdobeStock_112865445-kj7F--620x349@abc.jpg"
+},
+{
+    "categoria": "2",
+    "pregunta": " Calcula: 20 + 100 + 420",
+    "respuesta": "540",
+    "incorrecta1": "402",
+    "incorrecta2": "430",
+    "incorrecta3": "420",
+    "imagen":"https://www.educima.com/dibujo-para-colorear-pensar-dl10044.jpg"
+
+},
+{
+    "categoria": "2",
+    "pregunta": " ¿Qué codificación utiliza solamente 0 y 1?",
+    "respuesta": "Binario",
+    "incorrecta1": "Decimal",
+    "incorrecta2": "Octal",
+    "incorrecta3": "Hexadecimal",
+    "imagen":"https://espaciociencia.com//wp-content/uploads/2008/10/sistema-binario.jpg"
+},
+{
+    "categoria": "2",
+    "pregunta": " ¿Qué es la eremofobia?",
+    "respuesta": "Ninguna Es Correcta",
+    "incorrecta1": "Miedo Al Agua",
+    "incorrecta2": "Miedo A La Sangre",
+    "incorrecta3": "Miedo A Las Alturas",
+    "imagen":"https://www.menteasombrosa.com/wp-content/uploads/2019/08/eremofobia-miedo-soledad.jpg"
+},
+{
+    "categoria": "2",
+    "pregunta": " ¿Qué vitamina ayuda a la fijación de calcio en los huesos?",
+    "respuesta": "Vitamina D",
+    "incorrecta1": "Vitamina A",
+    "incorrecta2": "Riboflavina",
+    "incorrecta3": "Piridoxina",
+    "imagen":"https://www.dietistasnutricionistas.es/wp-content/uploads/2015/05/calcio-huesos.jpg"
+},
+{
+    "categoria": "2",
+    "pregunta": "¿Qué enfermedad se produce por la deficiencia en la producción de la hormona insulina por parte del páncreas?",
+    "respuesta": "Diabetes",
+    "incorrecta1": "Hipertiroidismo",
+    "incorrecta2": "Hipertensión",
+    "incorrecta3": "Colesterol",
+    "imagen":"https://www.dietistasnutricionistas.es/wp-content/uploads/2015/05/calcio-huesos.jpg"
+},
+{
+    "categoria": "3",
+    "pregunta": "¿Qué otro nombre recibió el período de la Gran Hambruna China?",
+    "respuesta": "Todas Son Correctas",
+    "incorrecta1": "Tres Años De Desastres Naturales",
+    "incorrecta2": "Tres Años De Dificultades Económicas",
+    "incorrecta3": "Tres Años Amargos",
+    "imagen":"https://img.lagaceta.com.ar/fotos/notas/2020/05/19/leccion-hambruna-china-19591961-844639-002215.jpg"
+},
+{
+    "categoria": "3",
+    "pregunta": "¿Con qué emperador estuvo casada Cleopatra?",
+    "respuesta": "Todas Son Correctas",
+    "incorrecta1": "Ptolomeo XIV",
+    "incorrecta2": "Julio César",
+    "incorrecta3": "Marco Antonio",
+    "imagen":"https://thumbs.dreamstime.com/b/la-mujer-egipcia-hermosa-le-gusta-cleopatra-con-la-bola-m%C3%A1gica-en-fondo-de-oro-74757890.jpg"
+},
+{
+    "categoria": "3",
+    "pregunta": "¿Qué se celebra el 8 de Marzo?",
+    "respuesta": "El Día De La Mujer",
+    "incorrecta1": "El Día Del Trabajo",
+    "incorrecta2": "El Día Del Medio Ambiente",
+    "incorrecta3": "El Día Del Niño",
+    "imagen":"https://sv.boell.org/sites/default/files/styles/3d2_small/public/2020-03/nayda.png?h=1e66e246&itok=zTUw2msh"
+},
+{
+    "categoria": "3",
+    "pregunta": "¿Dónde se encuentra Baiona?",
+    "respuesta": "Pontevedra",
+    "incorrecta1": "Francia",
+    "incorrecta2": "País Vasco",
+    "incorrecta3": "Andalucía",
+    "imagen":"https://media.quincemil.com/imagenes/2021/03/05193007/Baiona-1440x1080.jpg"
+},
+{
+    "categoria": "3",
+    "pregunta": "¿En qué país de África es el español el idioma oficial? ",
+    "respuesta": "Ghana",
+    "incorrecta1": "Guinea Ecuatorial",
+    "incorrecta2": "Gabón",
+    "incorrecta3": "Camerún",
+    "imagen":"https://cdn.passporthealthusa.com/wp-content/uploads/2017/07/advice-vaccines-ghana.jpg"
+},
+{
+    "categoria": "4",
+    "pregunta": "¿En cuál de estas situaciones se sacará una bandera amarilla, o incluso roja, en las carreras de coches?",
+    "respuesta": "Un Peligro En La Pista",
+    "incorrecta1": "Se Ha Declarado Un Ganador",
+    "incorrecta2": "Queda Una Vuelta",
+    "incorrecta3": "La Carrera Va A Empezar",
+    "imagen":"data:image/jpeg;base64,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"
+},
+{
+    "categoria": "4",
+    "pregunta": "¿Cuánto dura un partido de balonmano?",
+    "respuesta": "60 Minutos",
+    "incorrecta1": "30 Minutos",
+    "incorrecta2": "45 Minutos",
+    "incorrecta3": "90 Minutos",
+    "imagen":"https://www.elindependiente.com/wp-content/uploads/2021/07/hispanos-balonmano-tokio-2021-espana.jpg"
+},
+{
+    "categoria": "4",
+    "pregunta": " ¿Qué actor interpretaba a \"Hache\" en la película 3MSC?",
+    "respuesta": "Mario Casas",
+    "incorrecta1": "Hugo Silva",
+    "incorrecta2": "Miguel Angel Silvestre",
+    "incorrecta3": "Dani Martín",
+    "imagen":"https://i.pinimg.com/originals/7b/6c/48/7b6c481d126f09fd1c0ceb70d938f40b.jpg"
+},
+{
+    "categoria": "4",
+    "pregunta": " ¿Qué animal es la mascota de Jazmín en Aladdin?",
+    "respuesta": "Tigre",
+    "incorrecta1": "Elefante",
+    "incorrecta2": "Mono",
+    "incorrecta3": "Serpiente",
+    "imagen":"https://1.bp.blogspot.com/-2saWZcqzj7Q/XWbcmn624DI/AAAAAAAAC-g/BYQL8IK-ZGsG7tEtkvHBwTm9E0Ci9a_TACLcBGAs/s1600/princesa-jasmine-para-imprimir1.jpg"
+},
+{
+    "categoria": "4",
+    "pregunta": " ¿Quién interpreta la canción \"Baby One More Time \"?",
+    "respuesta": "Britney Spears",
+    "incorrecta1": "Madonna",
+    "incorrecta2": "Montserrat Caballé",
+    "incorrecta3": "Lady Gaga",
+    "imagen":"https://pbs.twimg.com/media/Ds9HOgzWkAU6w2h.jpg"
+},
+{
+    "categoria": "5",
+    "pregunta": " ¿Qué personaje del videojuego Mortal Kombat tiene poderes de hielo?",
+    "respuesta": "Sub-Zero",
+    "incorrecta1": "Scorpion",
+    "incorrecta2": "Reptile",
+    "incorrecta3": "Motaro",
+    "imagen":"https://play-lh.googleusercontent.com/cVUW4kbe8pQGlIp9d72uk_nr2cfsnFAp3WyKbX7SY30SgoAFucAsC4Mw5Eyiy0zang=w412-h220-rw"
+},
+{
+    "categoria": "5",
+    "pregunta": "Area del paralelogramo",
+    "respuesta": "bh",
+    "incorrecta1": "½bh",
+    "incorrecta2": "½bh",
+    "incorrecta3": "½ab(senΘ)",
+    "imagen":"https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3Aa6bc5442041e883345833cf7882d47afbcbf0778352f29db2d771b8b%2BIMAGE_TINY%2BIMAGE_TINY.1"
+},
+{
+    "categoria": "5",
+    "pregunta": "¿Cuánto vale el radio de la circunferencia goniométrica?",
+    "respuesta": "1",
+    "incorrecta1": "π²",
+    "incorrecta2": "3",
+    "incorrecta3": "cualquier numero real",
+    "imagen":"https://www.wikihow.com/images_en/thumb/d/d4/Memorize-the-Unit-Circle-Step-13-Version-2.jpg/v4-460px-Memorize-the-Unit-Circle-Step-13-Version-2.jpg.webp"
+},
+    {
+    "categoria": "5",
+    "pregunta": "Raiz cuadrada de 5",
+    "respuesta": "2.23606797749978969640917366873127623544061835...",
+    "incorrecta1": "1,41421356237309504880168872420969807856967187…",
+    "incorrecta2": "3.14159265358979323846264338327950288419716939...",
+    "incorrecta3": "1.73205080756887729352744634150587236694280525…",
+    "imagen":"https://cdn5.dibujos.net/dibujos/pintados/201933/numero-5-letras-y-numeros-numeros-11622556.jpg"
+    },
+    {
+    "categoria": "5",
+    "pregunta": " ¿Cómo era conocido también el faraón Akenatón, por adorar a un solo Dios?",
+    "respuesta": "El Hereje",
+    "incorrecta1": "El Feo",
+    "incorrecta2": "El Ateo",
+    "incorrecta3": "El Loco",
+    "imagen":"https://www.xlsemanal.com/wp-content/uploads/sites/3/2016/06/cor-42-40571900-2.jpg"
+    }
+]

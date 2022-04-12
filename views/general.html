@@ -1,0 +1,106 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>Juego de preguntas</title>
+    </head>
+    <body>
+    <style>
+      * {
+        transition: all 0.3s;
+        }
+    body {
+        background-image:linear-gradient(135deg,#00B7D4,#505488,#2F3F,#161569,#5A4894,#A950,#FF7CAE);
+        padding: 0;
+        margin: 0;
+        font-family: "Poppins",sans-serif;
+        text-align: center;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-size: 500%;
+        animation:fanimado 10s infinite;
+}
+        .contenedor {
+        width: 98vw;
+        height: 97vh;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        }
+        @keyframes fanimado{
+            0%{
+                background-position: 0% 50%;
+            }
+            50%{
+                background-position: 100% 50%;
+            }
+            100%{
+                background-position: 0% 50%;
+            }
+        }
+        .encabezado {
+        position: relative;
+        background: rgb(227, 206, 206);
+        min-width: 300px;
+        width: 70%;
+        max-width: 600px;
+        padding: 10px;
+        }
+        
+        .categoria {
+        opacity: 0.3;
+        text-align: left;
+        }
+    .pregunta {
+        padding: 10px;
+        }
+        
+    .imagen {
+        background-repeat: repeat-y;
+        background-size: 10rem;
+        }
+        
+        .btn {
+        background: white;
+        width: 60%;
+        max-width: 550px;
+        padding: 10px;
+        margin: 5px;
+        cursor: default;
+        }
+        
+        .btn:hover {
+        transform: scale(1.05);
+        }
+        
+        .numero{
+        position: absolute;
+        opacity:0.3;
+        top: 10px;
+        right: 10px;
+        }
+        
+        .puntaje{
+        padding:10px;
+        color:black;
+        }
+    </style>
+    
+        <div class="contenedor">
+        <div class="puntaje" id="puntaje"></div>
+        <div class="encabezado">
+        <div class="categoria" id="categoria" style="display: none;">
+        </div>
+        <div class="numero" id="numero"></div style="display:none">
+        <div class="pregunta" id="pregunta">
+        </div>
+        <img src="#" class="imagen" id="imagen">
+        </div>
+        <div class="btn" id="btn1" onclick="oprimir_btn(0)"></div>
+        <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
+        <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
+        <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
+        
+        <script src="index.js"></script>
+    </div>
+    
+    </body>
+    </html>
